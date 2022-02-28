@@ -11985,4 +11985,10 @@ h3, .h3 {
 p {
   line-height: 42px;
 }
+
+#logoGowen1 {
+  width: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
 /*# sourceMappingURL=style.css.map */
