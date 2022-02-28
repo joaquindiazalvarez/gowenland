@@ -11979,10 +11979,10 @@ nav {
 }
 
 h3, .h3 {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
-#textBio h3, #textBio .h3 {
-  padding-top: 10px;
+p {
+  line-height: 42px;
 }
 /*# sourceMappingURL=style.css.map */
