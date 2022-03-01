@@ -11958,7 +11958,7 @@ fieldset:disabled .btn {
 }
 
 * {
-  font-family: "Courgette";
+  font-family: "Permanent Marker";
 }
 
 #link1, #link2 {
@@ -11987,12 +11987,6 @@ h3, .h3 {
 }
 
 p {
-  line-height: 42px;
-}
-
-#logoGowen1 {
-  width: auto;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  line-height: 20px;
 }
 /*# sourceMappingURL=style.css.map */
