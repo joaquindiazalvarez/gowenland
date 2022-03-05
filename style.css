@@ -11993,4 +11993,10 @@ p {
 span {
   line-height: 40px;
 }
+
+@media (max-width: 767px) {
+  .hidden-mobile {
+    display: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
